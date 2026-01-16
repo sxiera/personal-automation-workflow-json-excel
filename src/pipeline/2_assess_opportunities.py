@@ -1,8 +1,8 @@
 import json
 import os
 
-file_path = './src/add-on.json'
-output_path = './src/add-on.json'
+file_path = './data/misc/add-on.json'
+output_path = './data/misc/add-on.json'
 
 # --- 1. Initial Attributes Population (V1) ---
 generated_data = {

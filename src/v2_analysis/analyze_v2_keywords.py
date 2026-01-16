@@ -2,7 +2,7 @@ import json
 import re
 from collections import Counter
 
-file_path = '/Users/bimaaristo/MH/revise/add-on-v2.json'
+file_path = '/Users/bimaaristo/MH/data/revise/add-on-v2.json'
 
 def get_keywords(text):
     if not text or not isinstance(text, str):

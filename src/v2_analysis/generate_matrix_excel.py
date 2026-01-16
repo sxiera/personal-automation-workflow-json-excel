@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import re
 
-input_json = '/Users/bimaaristo/MH/revise/add-on-v2.json'
+input_json = '/Users/bimaaristo/MH/data/revise/add-on-v2.json'
 output_excel = '/Users/bimaaristo/MH/src/proposed_matrix_structure.xlsx'
 
 # --- 1. Define the Schema & Logic ---

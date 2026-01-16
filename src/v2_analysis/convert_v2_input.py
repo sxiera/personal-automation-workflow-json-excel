@@ -2,8 +2,8 @@ import pandas as pd
 import json
 import os
 
-input_file = '/Users/bimaaristo/MH/revise/add-on-v2.xlsx'
-output_file = '/Users/bimaaristo/MH/revise/add-on-v2.json'
+input_file = '/Users/bimaaristo/MH/data/revise/add-on-v2.xlsx'
+output_file = '/Users/bimaaristo/MH/data/revise/add-on-v2.json'
 
 try:
     # Read specific sheet 'Use Cases'

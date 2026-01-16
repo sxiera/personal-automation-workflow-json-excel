@@ -1,8 +1,8 @@
 import pandas as pd
 import json
 
-input_json = './src/add-on.json'
-output_excel = './src/final_assessment_result.xlsx'
+input_json = './data/misc/add-on.json'
+output_excel = './data/misc/final_assessment_result.xlsx'
 
 try:
     # Load JSON

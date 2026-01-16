@@ -2,8 +2,8 @@ import pandas as pd
 import json
 import os
 
-input_file = './src/add-on.xlsx'
-output_file = './src/add-on.json'
+input_file = './data/misc/add-on.xlsx'
+output_file = './data/misc/add-on.json'
 
 try:
     if not os.path.exists(input_file):

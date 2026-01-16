@@ -1,6 +1,6 @@
 import json
 
-file_path = './src/add-on.json'
+file_path = './data/misc/add-on.json'
 try:
     with open(file_path, 'r') as f:
         data = json.load(f)
