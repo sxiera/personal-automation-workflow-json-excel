@@ -1,1 +1,9 @@
 .DS_Store
+data/
+new/
+revise/
+example/
+*.xlsx
+*.json
+__pycache__/
+.ipynb_checkpoints/
